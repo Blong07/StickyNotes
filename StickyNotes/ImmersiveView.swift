@@ -9,7 +9,7 @@ import SwiftUI
 import RealityKit
 import RealityKitContent
 
-struct ImmersiveView: View {
+/*struct ImmersiveView: View {
 
     var body: some View {
         RealityView { content in
@@ -28,3 +28,4 @@ struct ImmersiveView: View {
     ImmersiveView()
         .environment(AppModel())
 }
+*/

@@ -5,7 +5,7 @@
 //  Created by Alexander Blong on 24/07/2025.
 //
 
-import SwiftUI
+/*import SwiftUI
 
 @main
 struct StickyNotesApp: App {
@@ -31,3 +31,5 @@ struct StickyNotesApp: App {
         .immersionStyle(selection: .constant(.mixed), in: .mixed)
      }
 }
+*/
+
